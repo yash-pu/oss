@@ -1,4 +1,4 @@
 # oss
-This is my First GitHub repository
+This is my First GitHub Repository
 <br>
 Author - Yashwanth
